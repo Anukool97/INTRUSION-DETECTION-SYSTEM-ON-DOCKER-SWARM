@@ -1,0 +1,2 @@
+# INTRUSION-DETECTION-SYSTEM-ON-DOCKER-SWARM
+This projects take a simple Network Intrusion Detection System, make it running on the docker swarm containers. Hence taking the received packets from the client to the server in realtime. Then applying the ML Model on the packet traffic in order to detect the Intrusion. There are 4 attack-class which this model can alert to. Namely: 1> DOS attack 2>R2L(Remote to Local)  3>U2R (User to Root) 4> Probe Attack. 
